@@ -1,0 +1,42 @@
+/* 
+   Localizable.strings
+   a-logger
+
+   Created by Andre Scherl on 19.06.10.
+   Copyright 2010 Andre Scherl. All rights reserved.
+ */
+
+
+/* Tab Bar */
+"MEASURE_VIEW" = "Messung";
+"MEASURES_TABLEVIEW" = "Archiv";
+"PREFERENCES" = "Einstellungen";
+"TIMER_VIEW" = "Timer";
+
+/* Measure */
+"WITH_GRAVITY" = "Mit Gravitation";
+"WITHOUT_GRAVITY" = "Ohne Gravitation";
+"START_MEASURE" = "Messung starten";
+"PAUSE" = "Pause";
+"RESUME" = "Fortsetzen";
+"MEASURE_TITLE" = "Name der Messung";
+"PROMPT_COMMAND" = "Gib einen Namen für deine Messreihe ein!";
+"CANCEL" = "Abbrechen";
+"START" = "Starten";
+
+/* Preferences */
+"CALIBRATE" = "Auf lokale Gravitation kalibrieren";
+"TIMEINTERVAL" = "Zeitintervall zwischen Messwerten";
+"GRAVITY" = "Lokale Gravitationsbeschleunigung";
+"DIGITS" = "Anzahl Nachkommastellen";
+
+/* Email */
+"SUBJECT" = "Messung";
+"BODY" = "Lieber Forscher,\n deine Messreihe findest du im Anhang. Das csv-Format kannst du mit einem Tabellenkalkulationsprogramm öffnen bzw. importieren.\n\nDein iPhone oder iPod";
+
+/* Timer */
+"COUNTDOWN" = "Countdown";
+"CLOCK" = "Zeitpunkt";
+"FIVESEC" = "5 Sek";
+"SAVETIME" = "Startzeitpunkt übernehmen";
+"STOPCOUNTDOWN" = "Countdown stoppen";

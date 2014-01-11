@@ -1,0 +1,42 @@
+/* 
+   Localizable.strings
+   a-logger
+
+   Created by Andre Scherl on 19.06.10.
+   Copyright 2010 Andre Scherl. All rights reserved.
+ */
+
+
+/* Tab Bar */
+"MEASURE_VIEW" = "Measure";
+"MEASURES_TABLEVIEW" = "Archive";
+"PREFERENCES" = "Preferences";
+"TIMER_VIEW" = "Timer";
+
+/* Measure */
+"WITH_GRAVITY" = "With Gravity";
+"WITHOUT_GRAVITY" = "Without Gravity";
+"START_MEASURE" = "Start Measure";
+"PAUSE" = "Pause";
+"RESUME" = "Resume";
+"MEASURE_TITLE" = "Measure Title";
+"PROMPT_COMMAND" = "Please set a title of your measurement!";
+"CANCEL" = "Cancel";
+"START" = "Start";
+
+/* Preferences */
+"CALIBRATE" = "Calibrate To Local Gravity";
+"TIMEINTERVAL" = "Time Steps Of Measurement";
+"GRAVITY" = "Local Gravity";
+"DIGITS" = "Fractional Digits";
+
+/* Email */
+"SUBJECT" = "Measurement";
+"BODY" = "Dear researcher,\n your measurement series can be found in Appendix. You can open or import the csv-file with a spreadsheet program.\n \n Your iPhone or iPod";
+
+/* Timer */
+"COUNTDOWN" = "Countdown";
+"CLOCK" = "Clock";
+"FIVESEC" = "5 Sec";
+"SAVETIME" = "Set Time to Start";
+"STOPCOUNTDOWN" = "Stop Countdown";
